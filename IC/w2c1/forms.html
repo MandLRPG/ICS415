@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Kris' Coolest Website</title>
+  <style>
+    table, th, td {
+      border: 1px solid black;
+    }
+  </style>
+</head>
+<body>
+<table>
+  <thead>
+  <tr>
+    <th colspan="2"><h1>Kris' Coolest Website</h1></th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <td colspan="2"><a href="HTML5Test.html">Home</a> <a href="forms.html">Forms</a></td>
+  </tr>
+  <tr>
+    <td valign="top"; align="center">
+      <h4>Forms Summary</h4>
+      <p>HTML supports several different types of input</p>
+    </td>
+    <td width="75%">
+      <h4>Forms Page</h4>
+      <p>The following is a text input:</p>
+      <form name="input">
+        Username: <input type="text" name="user">
+      </form>
+      <p>Then a password input:</p>
+      <form name="password">
+        Password: <input type="password" name="password">
+      </form>
+      <p>Radio Buttons:</p>
+        <input type="radio" name="sex" value="Male">Male <br>
+        <input type="radio" name="sex" value="Female">Female
+      <p>Checkboxes</p>
+        <input type="checkbox" name="OS" value="Windows">Windows <br>
+        <input type="checkbox" name="OS" value="OS X">OSX <br>
+        <input type="checkbox" name="OS" value="Linux">Linux
+      <form name="email">
+        Email: <input type="email" name="email">
+      </form>
+      <form name="date">
+        Date: <input type="date" name="date">
+      </form>
+      <p>Submit button to send form data</p>
+      <form name="button" action="forms.html" method="post">
+        <input type="submit" value="Submit">
+      </form>
+    </td>
+  </tr>
+  </tbody>
+  <tfoot>
+  <tr><td colspan="2" style="text-align:center">Copyright (C) Kris Nakamura</td></tr>
+  </tfoot>
+</table>
+</body>
+</html>
