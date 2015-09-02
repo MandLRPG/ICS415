@@ -1,14 +1,50 @@
 /*This is a comment */
 
+
+
 p {
   color: mediumpurple;
 }
 
-b {
+i {
   color: aqua;
 }
 
+#title {
+  border: solid 3px blue;
+  font-family: 'Indie Flower', serif;
+  text-align: center;
+}
+
+#footer {
+  border: solid 3px blue;
+  font-family: 'Indie Flower', serif;
+  text-align: center;
+}
+
+#prebody {
+  border: solid 3px blue;
+  font-family: 'Indie Flower', serif;
+  text-align: center;
+}
+
+nav {
+  border: solid 3px blue;
+  font-family: 'Indie Flower', serif;
+  text-align: center;
+}
+
+figure {
+
+  border: solid 3px blue;
+  font-family: 'Indie Flower', serif;
+  text-align: center;
+}
+
 body {
+  background: #e8ffe9;
+  border: solid 3px blue;
+  padding: 5px;
   color: darkblue;
   font-size: medium;
 }
