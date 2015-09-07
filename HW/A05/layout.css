@@ -1,0 +1,41 @@
+/*This is a comment */
+
+p {
+  color: darkgreen;
+}
+
+#title {
+  height: 25%;
+  font-family: 'Indie Flower', serif;
+  text-align: center;
+}
+
+#footer {
+  height: 50px;
+  border: 3px blue;
+  border-style: solid none;
+  font-family: 'Indie Flower', serif;
+  text-align: center;
+}
+
+#sidebar {
+  width: 25%;
+  border: 1px blue;
+  border-style: none solid none none;
+}
+
+
+nav {
+  height: 50px;
+  border: 3px blue;
+  border-style: solid none;
+  font-family: 'Indie Flower', serif;
+  text-align: center;
+}
+
+body, html {
+  height: 100%;
+  background: #e8ffe9;
+  color: darkblue;
+  font-size: medium;
+}
