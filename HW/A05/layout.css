@@ -18,12 +18,20 @@ p {
   text-align: center;
 }
 
-#sidebar {
+#left_div {
   width: 25%;
-  border: 1px blue;
+  float: left;
+  border: 2px blue;
   border-style: none solid none none;
 }
 
+#right_div {
+  width: 75%;
+}
+
+#main_content {
+  overflow: auto;
+}
 
 nav {
   height: 50px;
@@ -35,6 +43,7 @@ nav {
 
 body, html {
   height: 100%;
+  width: 100%;
   background: #e8ffe9;
   color: darkblue;
   font-size: medium;
