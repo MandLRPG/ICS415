@@ -28,6 +28,14 @@ $(document).ready(function() {
     $(this).hide();
     $("#hideText").show();
   });
+
+  $("#ajaxButton").click(function () {
+    $("#ajaxText").load("testfile.txt");
+  });
+
+  $("#ajaxButton2").click(function () {
+    $("#ajaxText").load("testfile.txt #p1");
+  });
 });
 
 function displayDate() {

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18c38ba3-2bb5-40a1-a98e-163b3668d153" name="Default" comment="" />
+    <list default="true" id="18c38ba3-2bb5-40a1-a98e-163b3668d153" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IC/w5c2/index.html" afterPath="$PROJECT_DIR$/IC/w5c2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IC/w5c2/myScript.js" afterPath="$PROJECT_DIR$/IC/w5c2/myScript.js" />
+    </list>
     <ignored path="ICS415.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,21 +26,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/IC/w5c2/index.html">
+      <file leaf-file-name="myScript.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/IC/w5c2/myScript.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.34035656">
-              <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.74882996">
+              <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="myScript.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IC/w5c2/myScript.js">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IC/w5c2/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-17.5">
+              <caret line="54" column="86" selection-start-line="54" selection-start-column="86" selection-end-line="54" selection-end-column="86" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testfile.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IC/w5c2/testfile.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+              <caret line="2" column="64" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="64" />
               <folding />
             </state>
           </provider>
@@ -87,8 +100,9 @@
         <option value="$PROJECT_DIR$/IC/w4c2/index.html" />
         <option value="$PROJECT_DIR$/IC/w5c1/index.html" />
         <option value="$PROJECT_DIR$/IC/w5c1/myScript.js" />
-        <option value="$PROJECT_DIR$/IC/w5c2/myScript.js" />
+        <option value="$PROJECT_DIR$/IC/w5c2/testfile.txt" />
         <option value="$PROJECT_DIR$/IC/w5c2/index.html" />
+        <option value="$PROJECT_DIR$/IC/w5c2/myScript.js" />
       </list>
     </option>
   </component>
@@ -190,24 +204,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="w5c2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ICS415" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ICS415" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="w5c1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -539,12 +535,12 @@
       <workItem from="1441256325611" duration="1030000" />
       <workItem from="1441540921413" duration="10490000" />
       <workItem from="1441825660952" duration="4280000" />
-      <workItem from="1442216345122" duration="17462000" />
+      <workItem from="1442216345122" duration="21905000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59408000" />
+    <option name="totallyTimeSpent" value="63851000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
@@ -595,14 +591,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HW/A05/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HW/A05/layout.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -977,18 +965,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IC/w5c2/myScript.js">
+    <entry file="file://$PROJECT_DIR$/IC/w5c2/testfile.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <caret line="2" column="64" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="64" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/IC/w5c2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34035656">
-          <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+        <state vertical-scroll-proportion="-17.5">
+          <caret line="54" column="86" selection-start-line="54" selection-start-column="86" selection-end-line="54" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IC/w5c2/myScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.74882996">
+          <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
           <folding />
         </state>
       </provider>
